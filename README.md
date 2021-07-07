@@ -11,7 +11,7 @@ Sentiment analysis is the automated process of determining whether a text expres
     
     $ yarn start
 ````
-
-
+## Results
+img
 ## Try it!
 https://sentiment-analysis-nlp1.herokuapp.com/
